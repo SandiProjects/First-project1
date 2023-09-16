@@ -1,0 +1,42 @@
+/*9803231390087*/
+body{
+    background: url(image14.jpg) 
+    no-repeat center center fixed;
+	font-family: Arial;
+	font-size: 12pt;
+	width:800px;
+    margin:15px auto;
+    padding:5px;
+
+}
+title{
+    text-align: center;
+    font-size: 15pt;
+    color: darkturquoise
+    
+}
+
+h1{
+    font-family: serif;
+     font-size: 30pt;
+    text-align: center;
+    color: cyan;
+}
+h3{
+ font-family: monospace;
+     font-size: 20pt;
+    text-align: center;
+    color: deeppink;
+}
+#nav{
+	font-family:Arial;
+	 font-size:15pt;
+	 text-align:center;
+    
+}
+#footer{
+	text-align:left;
+		font-family:Arial lighter;
+		font-style:italic;
+    color: cyan;
+		}
