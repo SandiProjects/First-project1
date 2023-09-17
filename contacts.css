@@ -1,0 +1,28 @@
+body{
+	background: url(image17.jpg) 
+    no-repeat center center fixed;
+	font-size: 12pt;
+	width:800px;
+    margin:15px auto;
+    padding:5px;
+background-size:cover;
+    position:relative;
+    margin: 0;
+    min-height: 100%;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+.footer{
+    font-style: italic;
+    position: bottom;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1px;
+    background-color:#efefef;
+    text-align: center;
+    opacity: 0.3;
+    
+}

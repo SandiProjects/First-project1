@@ -1,0 +1,27 @@
+body{
+	background: url(image15.jpg) 
+    no-repeat center center fixed;
+    background-size: cover;
+	font-family: Arial;
+	font-size: 12pt;
+	width:800px;
+    margin:15px auto;
+    padding:5px;
+}
+.footer{
+    font-style: italic;
+    position: bottom;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1px;
+    text-align: center;
+    opacity: 0.3;
+    
+}
+.p{
+    font-style: oblique;
+    font-family: serif;
+    
+    
+}
